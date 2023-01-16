@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: screener-scraper
+Version: 0.0.1
+Summary: Scrapes company data from screener.in
+Home-page: https://github.com/adulef/scrneer_scraper
+Download-URL: https://github.com/adulef/scrneer_scraper/dist/0.0.1.tar.gz
+Author: Feluda
+Author-email: dummy@gmail.com
+Keywords: screener,scraping,scraper
+Description-Content-Type: text/markdown
+
+# screener_scraper
+This package can be used an unofficial API for screener.in
+
+## Install
+
+
+## Usage
+These are few use cases of the liberary:
+### Case 1
